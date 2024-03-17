@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelSearch", "SentinelSearch\SentinelSearch.csproj", "{7A39DF40-9706-4D86-9A24-3AE122248655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A39DF40-9706-4D86-9A24-3AE122248655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A39DF40-9706-4D86-9A24-3AE122248655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A39DF40-9706-4D86-9A24-3AE122248655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A39DF40-9706-4D86-9A24-3AE122248655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
