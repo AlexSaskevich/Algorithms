@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{C400FC55-8B85-4AB3-A20D-AE20933CCF95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveBinarySearch", "RecursiveBinarySearch\RecursiveBinarySearch.csproj", "{2A98EB67-9D30-4B5F-953A-1B202B14488E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A98EB67-9D30-4B5F-953A-1B202B14488E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A98EB67-9D30-4B5F-953A-1B202B14488E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A98EB67-9D30-4B5F-953A-1B202B14488E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A98EB67-9D30-4B5F-953A-1B202B14488E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
