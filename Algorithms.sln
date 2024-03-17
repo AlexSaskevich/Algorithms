@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentinelSearch", "SentinelS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{C400FC55-8B85-4AB3-A20D-AE20933CCF95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F121390-6253-4DF9-BAF5-C04F5F42B8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C400FC55-8B85-4AB3-A20D-AE20933CCF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
