@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveBinarySearch", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{9BD87FDA-8162-489C-9882-04D6D70BBC77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{CAEE5533-BAF0-4599-9D6A-124FBBFFFA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{9BD87FDA-8162-489C-9882-04D6D70BBC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD87FDA-8162-489C-9882-04D6D70BBC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD87FDA-8162-489C-9882-04D6D70BBC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAEE5533-BAF0-4599-9D6A-124FBBFFFA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAEE5533-BAF0-4599-9D6A-124FBBFFFA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAEE5533-BAF0-4599-9D6A-124FBBFFFA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAEE5533-BAF0-4599-9D6A-124FBBFFFA97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
